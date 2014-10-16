@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aiq:home|Door43 (aiq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aiq|d43-aiq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aiq/archive/master.zip|d43-aiq.zip]]
+
+**Recent Changes**
+{{changes>ns = aiq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aiq|Ethnologue data]]
+
